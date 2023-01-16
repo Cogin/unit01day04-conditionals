@@ -1,3 +1,4 @@
+// FIXME: I think you will sometimes roll zeros
 public class RollLoadedDie {
     public static void main(String[] args) {
         Integer chance = (int) (Math.random() * 8);
