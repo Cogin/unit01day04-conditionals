@@ -1,3 +1,4 @@
+// good. Like I said IRL, try to find alternatives to System.exit at this point in your Java career.
 public class ThreeEqual {
     public static void main(String[] args) {
         if (args.length != 3) {
